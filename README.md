@@ -1,1 +1,1 @@
-This a repo for React Bootcamp
+This is a repo for React Bootcamp
